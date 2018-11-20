@@ -1,0 +1,15 @@
+div>p{
+  float: left;
+}
+
+#side-image{
+  float: left;
+}
+
+.clearfix{
+  clear: both;
+}
+
+body{
+  color: blue;
+}
